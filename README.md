@@ -27,7 +27,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: Alexandre Aragao](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alexandre-aragão-799553355/)
 [![GitHub xandyxdev]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/xandyxdev)

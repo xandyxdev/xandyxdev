@@ -9,6 +9,7 @@
 
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 **DevOps**
 

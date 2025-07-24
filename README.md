@@ -1,7 +1,7 @@
 <h3> 👨 &nbsp; Hey guys 👋 </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
-- 🌱 &nbsp; Learning more about *JAVA**.
+- 🌱 &nbsp; Learning more about **JAVA**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
